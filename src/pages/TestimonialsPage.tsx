@@ -76,6 +76,14 @@ const TestimonialsPage = () => {
         date: "2 months ago",
         location: "Nagpur"
       },
+      {
+        name: "Ravi Deshmukh",
+        rating: 5,
+        review:
+          "The offline program exceeded my expectations. Small batch size ensures personal attention and the mentors are always available for guidance.",
+        date: "6 weeks ago",
+        location: "Nagpur"
+      },
     ],
     studentEarnings: [
       {
@@ -179,6 +187,14 @@ const TestimonialsPage = () => {
           "Online program's recorded sessions and live doubt clearing made learning very convenient for my schedule.",
         date: "1 month ago",
         location: "Hyderabad"
+      },
+      {
+        name: "Rahul Verma",
+        rating: 5,
+        review:
+          "Perfect balance of live interaction and flexibility. The online program's quality matches classroom teaching with added convenience.",
+        date: "5 weeks ago",
+        location: "Kolkata"
       },
     ],
     studentEarnings: [
